@@ -1,4 +1,11 @@
-I am testing git right now
+I am testing git
 
 
-Making some changes right now
+Making some changes
+
+
+Adding some notes
+
+
+
+New lines to add
